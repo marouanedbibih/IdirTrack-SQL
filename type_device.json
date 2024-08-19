@@ -1,0 +1,18 @@
+[
+ {
+  "Field": "id",
+  "Type": "b'bigint'",
+  "Null": "NO",
+  "Key": "PRI",
+  "Default": "NULL",
+  "Extra": "auto_increment"
+ },
+ {
+  "Field": "name",
+  "Type": "b'varchar(255)'",
+  "Null": "YES",
+  "Key": "",
+  "Default": "NULL",
+  "Extra": ""
+ }
+]

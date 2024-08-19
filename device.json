@@ -1,0 +1,58 @@
+[
+ {
+  "Field": "created_at",
+  "Type": "b'date'",
+  "Null": "YES",
+  "Key": "",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "updated_at",
+  "Type": "b'date'",
+  "Null": "YES",
+  "Key": "",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "id",
+  "Type": "b'bigint'",
+  "Null": "NO",
+  "Key": "PRI",
+  "Default": "NULL",
+  "Extra": "auto_increment"
+ },
+ {
+  "Field": "type_device_id",
+  "Type": "b'bigint'",
+  "Null": "YES",
+  "Key": "MUL",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "imei",
+  "Type": "b'varchar(255)'",
+  "Null": "YES",
+  "Key": "UNI",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "remarque",
+  "Type": "b'varchar(255)'",
+  "Null": "YES",
+  "Key": "",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "status",
+  "Type": "b\"enum('DAMAGED','INSTALLED','LOST','NON_INSTALLED')\"",
+  "Null": "YES",
+  "Key": "",
+  "Default": "NULL",
+  "Extra": ""
+ }
+]

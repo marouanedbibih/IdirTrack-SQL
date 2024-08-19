@@ -1,0 +1,26 @@
+[
+ {
+  "Field": "date_entree",
+  "Type": "b'date'",
+  "Null": "YES",
+  "Key": "",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "quantity",
+  "Type": "b'int'",
+  "Null": "YES",
+  "Key": "",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "id",
+  "Type": "b'bigint'",
+  "Null": "NO",
+  "Key": "PRI",
+  "Default": "NULL",
+  "Extra": "auto_increment"
+ }
+]

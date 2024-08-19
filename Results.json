@@ -1,0 +1,13 @@
+[
+
+ {
+  "Database": "stock_microservice_db"
+ },
+ {
+  "Database": "users_microservice_db"
+ },
+ {
+  "Database": "vehicles_microservice_db"
+ }
+ 
+]

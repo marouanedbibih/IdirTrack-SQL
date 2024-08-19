@@ -1,0 +1,26 @@
+[
+ {
+  "Field": "device_type_id",
+  "Type": "b'bigint'",
+  "Null": "YES",
+  "Key": "MUL",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "id",
+  "Type": "b'bigint'",
+  "Null": "NO",
+  "Key": "PRI",
+  "Default": "NULL",
+  "Extra": "auto_increment"
+ },
+ {
+  "Field": "stock_id",
+  "Type": "b'bigint'",
+  "Null": "YES",
+  "Key": "UNI",
+  "Default": "NULL",
+  "Extra": ""
+ }
+]

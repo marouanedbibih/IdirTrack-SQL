@@ -1,0 +1,74 @@
+[
+ {
+  "simMicroserviceId": "14",
+  "ccid": "123456789012345014",
+  "phone": "12345678914",
+  "operatorName": "IAM"
+ },
+ {
+  "simMicroserviceId": "26",
+  "ccid": "123456789012345026",
+  "phone": "12345678926",
+  "operatorName": "IAM"
+ },
+ {
+  "simMicroserviceId": "30",
+  "ccid": "123456789012345030",
+  "phone": "12345678930",
+  "operatorName": "IAM"
+ },
+ {
+  "simMicroserviceId": "41",
+  "ccid": "123456789012345041",
+  "phone": "12345678941",
+  "operatorName": "IAM"
+ },
+ {
+  "simMicroserviceId": "45",
+  "ccid": "123456789012345045",
+  "phone": "12345678945",
+  "operatorName": "IAM"
+ },
+ {
+  "simMicroserviceId": "6",
+  "ccid": "123456789012345006",
+  "phone": "1234567896",
+  "operatorName": "Inwi"
+ },
+ {
+  "simMicroserviceId": "10",
+  "ccid": "123456789012345010",
+  "phone": "1234567890",
+  "operatorName": "Inwi"
+ },
+ {
+  "simMicroserviceId": "22",
+  "ccid": "12345678922",
+  "phone": "12345678922",
+  "operatorName": "Inwi"
+ },
+ {
+  "simMicroserviceId": "37",
+  "ccid": "123456789012345037",
+  "phone": "12345678937",
+  "operatorName": "Inwi"
+ },
+ {
+  "simMicroserviceId": "2",
+  "ccid": "123456789012345002",
+  "phone": "1234567892",
+  "operatorName": "Orange"
+ },
+ {
+  "simMicroserviceId": "18",
+  "ccid": "123456789012345018",
+  "phone": "12345678918",
+  "operatorName": "Orange"
+ },
+ {
+  "simMicroserviceId": "33",
+  "ccid": "123456789012345033",
+  "phone": "12345678933",
+  "operatorName": "Orange"
+ }
+]

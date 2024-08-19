@@ -1,0 +1,26 @@
+[
+ {
+  "Field": "created_at",
+  "Type": "b'date'",
+  "Null": "YES",
+  "Key": "",
+  "Default": "NULL",
+  "Extra": ""
+ },
+ {
+  "Field": "id",
+  "Type": "b'bigint'",
+  "Null": "NO",
+  "Key": "PRI",
+  "Default": "NULL",
+  "Extra": "auto_increment"
+ },
+ {
+  "Field": "type",
+  "Type": "b'varchar(255)'",
+  "Null": "NO",
+  "Key": "UNI",
+  "Default": "NULL",
+  "Extra": ""
+ }
+]

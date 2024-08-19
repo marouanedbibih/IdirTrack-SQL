@@ -1,0 +1,137 @@
+[
+ {
+  "deviceMicroserviceId": "1",
+  "imei": "1234567890123451",
+  "type": "Garmin GPSMAP 64sx"
+ },
+ {
+  "deviceMicroserviceId": "4",
+  "imei": "4234567890123454",
+  "type": "Magellan TRX7"
+ },
+ {
+  "deviceMicroserviceId": "6",
+  "imei": "6234567890123456",
+  "type": "Garmin eTrex 22x"
+ },
+ {
+  "deviceMicroserviceId": "8",
+  "imei": "8234567890123458",
+  "type": "Garmin Overlander"
+ },
+ {
+  "deviceMicroserviceId": "10",
+  "imei": "10345678901234510",
+  "type": "Garmin Dezl OTR700"
+ },
+ {
+  "deviceMicroserviceId": "13",
+  "imei": "12345678901234713",
+  "type": "Garmin DriveSmart 65"
+ },
+ {
+  "deviceMicroserviceId": "15",
+  "imei": "12345678901234915",
+  "type": "Garmin Montana 700i"
+ },
+ {
+  "deviceMicroserviceId": "18",
+  "imei": "12345678901235218",
+  "type": "Garmin Overlander"
+ },
+ {
+  "deviceMicroserviceId": "20",
+  "imei": "12345678901235420",
+  "type": "Garmin Dezl OTR700"
+ },
+ {
+  "deviceMicroserviceId": "21",
+  "imei": "22345678901234521",
+  "type": "Garmin GPSMAP 64sx"
+ },
+ {
+  "deviceMicroserviceId": "24",
+  "imei": "25345678901234524",
+  "type": "Magellan TRX7"
+ },
+ {
+  "deviceMicroserviceId": "26",
+  "imei": "27345678901234526",
+  "type": "Garmin eTrex 22x"
+ },
+ {
+  "deviceMicroserviceId": "28",
+  "imei": "29345678901234528",
+  "type": "Garmin Overlander"
+ },
+ {
+  "deviceMicroserviceId": "30",
+  "imei": "31345678901234530",
+  "type": "Garmin Dezl OTR700"
+ },
+ {
+  "deviceMicroserviceId": "33",
+  "imei": "34345678901234533",
+  "type": "Garmin DriveSmart 65"
+ },
+ {
+  "deviceMicroserviceId": "35",
+  "imei": "36345678901234535",
+  "type": "Garmin Montana 700i"
+ },
+ {
+  "deviceMicroserviceId": "38",
+  "imei": "39345678901234538",
+  "type": "Garmin Overlander"
+ },
+ {
+  "deviceMicroserviceId": "40",
+  "imei": "41345678901234540",
+  "type": "Garmin Dezl OTR700"
+ },
+ {
+  "deviceMicroserviceId": "41",
+  "imei": "52345678901234541",
+  "type": "Garmin GPSMAP 64sx"
+ },
+ {
+  "deviceMicroserviceId": "44",
+  "imei": "55345678901234544",
+  "type": "Magellan TRX7"
+ },
+ {
+  "deviceMicroserviceId": "46",
+  "imei": "57345678901234546",
+  "type": "Garmin eTrex 22x"
+ },
+ {
+  "deviceMicroserviceId": "48",
+  "imei": "59345678901234548",
+  "type": "Garmin Overlander"
+ },
+ {
+  "deviceMicroserviceId": "50",
+  "imei": "61345678901234550",
+  "type": "Garmin Dezl OTR700"
+ },
+ {
+  "deviceMicroserviceId": "53",
+  "imei": "64345678901234553",
+  "type": "Garmin DriveSmart 65"
+ },
+ {
+  "deviceMicroserviceId": "55",
+  "imei": "66345678901234555",
+  "type": "Garmin Montana 700i"
+ },
+ {
+  "deviceMicroserviceId": "58",
+  "imei": "69345678901234558",
+  "type": "Garmin Overlander"
+ },
+ {
+  "deviceMicroserviceId": "60",
+  "imei": "71345678901234560",
+  "type": "Garmin Dezl OTR700"
+ }
+]

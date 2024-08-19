@@ -1,0 +1,102 @@
+[
+ {
+  "clientMicroserviceId": "1",
+  "name": "John Doe",
+  "company": "TechCorp"
+ },
+ {
+  "clientMicroserviceId": "2",
+  "name": "Jane Doe",
+  "company": "HealthPlus"
+ },
+ {
+  "clientMicroserviceId": "3",
+  "name": "Mike Johnson",
+  "company": "FinanceInc"
+ },
+ {
+  "clientMicroserviceId": "4",
+  "name": "Emily Clark",
+  "company": "MediCare"
+ },
+ {
+  "clientMicroserviceId": "5",
+  "name": "David Miller",
+  "company": "FinTech Solutions"
+ },
+ {
+  "clientMicroserviceId": "6",
+  "name": "Sarah Wilson",
+  "company": "SoftTech"
+ },
+ {
+  "clientMicroserviceId": "7",
+  "name": "Robert Brown",
+  "company": "BioHealth"
+ },
+ {
+  "clientMicroserviceId": "8",
+  "name": "Linda Martin",
+  "company": "EcoFinance"
+ },
+ {
+  "clientMicroserviceId": "9",
+  "name": "Michael Anderson",
+  "company": "NetSolutions"
+ },
+ {
+  "clientMicroserviceId": "10",
+  "name": "Jessica Garcia",
+  "company": "MediSys"
+ },
+ {
+  "clientMicroserviceId": "11",
+  "name": "James Lee",
+  "company": "MoneyMatters"
+ },
+ {
+  "clientMicroserviceId": "12",
+  "name": "Laura Thompson",
+  "company": "InnoTech"
+ },
+ {
+  "clientMicroserviceId": "13",
+  "name": "William White",
+  "company": "HealthNet"
+ },
+ {
+  "clientMicroserviceId": "14",
+  "name": "Patricia Rodriguez",
+  "company": "SecureFinance"
+ },
+ {
+  "clientMicroserviceId": "15",
+  "name": "Charles Martinez",
+  "company": "WebTech"
+ },
+ {
+  "clientMicroserviceId": "16",
+  "name": "Barbara Hernandez",
+  "company": "WellnessWorks"
+ },
+ {
+  "clientMicroserviceId": "17",
+  "name": "Richard King",
+  "company": "TrustFinance"
+ },
+ {
+  "clientMicroserviceId": "18",
+  "name": "Susan Davis",
+  "company": "CloudTech"
+ },
+ {
+  "clientMicroserviceId": "19",
+  "name": "Joseph Lopez",
+  "company": "LifeHealth"
+ },
+ {
+  "clientMicroserviceId": "20",
+  "name": "Karen Scott",
+  "company": "FinanceGuru"
+ }
+]
